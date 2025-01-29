@@ -5,7 +5,7 @@
 This Excel dashboard provides an in-depth analysis of call center operations, helping monitor key performance indicators (KPIs) to improve efficiency and customer satisfaction. Using real-world data, it visualizes trends related to representative performance, call duration, customer satisfaction, and the number of calls handled.
 
 Dataset Link:<a href="https://github.com/Aseenasafan/Data-Analysis-Dashboard/blob/main/data-excel-portfolio-project%20on%20call%20centre%20report.xlsx">Dataset</a>
-Dashboard link:<a href=
+Dashboard link:<a href="https://github.com/Aseenasafan/Data-Analysis-Dashboard/blob/main/Screenshot%202025-01-29%20224930.png">Dashboard</a>
 
 
 📂 Dataset Description
