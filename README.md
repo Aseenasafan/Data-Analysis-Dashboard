@@ -1,10 +1,12 @@
 📊 Call Center Performance Dashboard
 
 📌 Project Overview
+
 This Excel dashboard provides an in-depth analysis of call center operations, helping monitor key performance indicators (KPIs) to improve efficiency and customer satisfaction. Using real-world data, it visualizes trends related to representative performance, call duration, customer satisfaction, and the number of calls handled.
 
 
 📂 Dataset Description
+
 The dataset contains information about call center interactions, including:
 
 •	Call Number – A unique identifier for each call.
