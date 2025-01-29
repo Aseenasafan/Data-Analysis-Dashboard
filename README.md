@@ -25,20 +25,50 @@ The dataset contains information about call center interactions, including:
 
 •	Day of the Week – The weekday when the call occurred.
 
+📊 Dashboard Insights & KPI Questions
 
-📊 Dashboard Insights
+The dashboard provides answers to key performance questions such as:
 
-The dashboard provides the following key insights:
+🔹 Representative Performance
 
-•	Representative Performance – Tracks the number of calls attended by each representative and their average call duration.
+     •How many calls did Representative 1 (R01) attend?
 
-•	Call Duration Analysis – Highlights trends in call lengths to identify efficiency improvements.
+     •What was the average duration of calls for each representative?
 
-•	Customer Satisfaction – Analyzes satisfaction ratings per representative and call category.
+     •How does each representative’s total handling time compare to others?
+     
+🔹 Call Duration Analysis
 
-•	Call Volume Trends – Displays daily call counts to identify peak hours and workload distribution.
+     •What is the average call duration across all representatives?
 
-•	Revenue Impact – Shows purchase amounts linked to customer interactions.
+     •Which representative has the longest/shortest call duration?
+
+     •How does call duration vary by day of the week?
+
+🔹 Customer Satisfaction
+
+     •How many 5-star ratings did each representative receive?
+
+     •What is the overall satisfaction score per representative?
+
+     •Which representative has the highest/lowest customer satisfaction?
+
+🔹 Call Volume Trends
+
+     •How many calls were handled daily/weekly/monthly?
+
+     •What are the peak call times?
+
+     •Which day had the highest and lowest number of calls?
+
+🔹 Revenue Impact
+
+      •How much total revenue (purchase amount) is linked to each representative’s calls?
+
+      •Is there a correlation between satisfaction rating and purchase amount?
+
+      •Do longer call durations impact customer spending?
+
 
 
 🔧 Tools Used
@@ -51,4 +81,5 @@ The dashboard provides the following key insights:
 
 
 📌 Conclusion
+
 This project serves as a valuable tool for call center managers and analysts to monitor agent efficiency, improve service quality, and make data-driven decisions. The insights gained can help optimize call center operations and enhance customer satisfaction.
